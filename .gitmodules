@@ -8,4 +8,4 @@
 	branch = dev
 [submodule "modules/firetv"]
 	path = modules/firetv
-	url = https://github.com/ghenry22/Connect-SDK-iOS-FireTV.git
+	url = https://github.com/connectsdk/Connect-SDK-iOS-FireTV.git
